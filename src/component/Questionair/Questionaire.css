@@ -1,0 +1,114 @@
+.questionaire{
+    margin-left:300px;
+
+}
+
+.location{
+    font-size: 20px;
+    color:#ea1b0a;
+}
+
+.postcode{
+    font-size: 26px;
+    padding-bottom:10px;
+}
+
+
+.search-field{
+    position: relative;
+    padding-right: 0px;
+
+}
+
+.fa-map-marker{
+    position: absolute;
+    left: 379px;
+    top: 10px;
+}
+
+.inputField{
+    width: 400px;
+    height: 30px;
+    border-radius: 25px;
+    outline: none;
+}
+
+.option-wrapper{
+    display: inline-block;
+    width: 62%;
+    margin-bottom: 22px;
+}
+
+.radio-icon-multiple{
+    display: inline-block;
+    position: relative;
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin: 0 32px 32px 0;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 15%), 0 0 2px 0 rgb(0 0 0 / 8%);
+}
+
+.option-radio-input{
+    /* height: 227px; */
+    opacity: 0;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 144px;
+    margin: 0;  
+}
+
+.radio-label{
+    display: block;
+    text-align: center;
+    padding: 0;
+    height: 85px;
+    width: 165px;
+    margin: 0;
+    background: #f6f6f7;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 15%), 0 0 2px 0 rgb(0 0 0 / 8%);
+    position: relative;
+    border-radius: 8px;
+    cursor: pointer;
+
+    
+}
+
+.button{
+    width: 100%;
+}
+
+.yesButton{
+    display: inline-block;
+}
+
+.noButton{
+    display: inline-block;
+}
+
+
+.First-button {
+    width: 73px;
+    height: 37px;
+}
+.second-button {
+    width: 73px;
+    height: 37px;
+}
+
+.text{
+    display: table;
+    width: 100%;
+}
+
+.head{
+    color: red;
+    font-size: 30px;
+}
+
+.suggest{
+    font-size: 20px;
+    line-height: 1.2;
+}
+
